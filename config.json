@@ -1,0 +1,7 @@
+{
+  "token": "NjA0NDUwODI3NDAyNDc3NTkx.XU1gLw.EBHez60EFT47oFnC9NFEixpAHHI",
+  "colour": "#FFFFFF",
+  "channel": "welcome",
+  "welcome_message": "Welcome {user} to the server!",
+  "footer": "Server Name"
+}

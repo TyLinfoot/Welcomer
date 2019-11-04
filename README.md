@@ -12,11 +12,12 @@ Then run node index.js and you should be up and running!
 If you need any help DM me on Discord, Ty#7904.
 
 # CONFIG
-
-{
   "token": "NjA0NDUwODI3NDAyNDc3NTkx.XU1gLw.EBHez60EFT47oFnC9NFEixpAHHI", // YOUR TOKEN (this token has been regenerated so don't try to use it lol)
+  
   "colour": "#FFFFFF", // MAIN EMBED COLOUR
+  
   "channel": "welcome", // CHANNEL NAME TO SEND MESSAGE
+  
   "welcome_message": "Welcome {user} to the server!", // MAIN MESSAGE, {user} DEFAULTS TO TAGGING THE MEMBER WHO JOINED
+  
   "footer": "Server Name" // TEXT DISPLAYED IN FOOTER
-}

@@ -36,6 +36,5 @@ case $option in
     ;;
     2) echo "bye"
     ;;
-    *) echo "Invalid selection you twat:"
-    options
+    *) echo "Invalid selection you twat"
 esac
